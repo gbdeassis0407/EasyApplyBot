@@ -1,5 +1,5 @@
-email: email@domain.com
-password: yourpassword
+email: gbdeassis@hotmail.com.br
+password: DDeath!@#040722
 
 disableAntiLock: False
 
@@ -16,7 +16,7 @@ experienceLevel:
 jobTypes:
  full-time: True
  contract: True
- part-time: False
+ part-time: True
  temporary: True
  internship: False
  other: False
@@ -29,19 +29,23 @@ date:
  24 hours: False
 
 positions:
- #- First position
+ - Análise de sistemas
+ - Desenvolvedor
+ - Programador
  #- A second position
  #- A third position
  #- ...
 locations:
- #- First location
- #- A second location
- #- A third location
+ - Campinas
+ - Paulínia
+ - Jaguariúna
+ - portugal
  #- ...
  - Remote
 distance: 25
 
 outputFileDirectory: ~/Documents/Applications/EasyApplyBot/EasyApplyBot/
+#C:\Users\Guilherme\Documents\Git\EasyApplyBot
 
 companyBlacklist:
  #- company
@@ -56,7 +60,7 @@ posterBlacklist:
  #- name2
 
 uploads:
- resume: C:\Users\myDirectory\Resume.pdf
+ resume: D:\Guilherme\CV\Guilherme Borges de Assis Analista de Sistemas.pdf
  # Cover letter is optional
  #coverLetter: C:\Users\myDirectory\CoverLettter.pdf
 
@@ -87,7 +91,7 @@ checkboxes:
   - High School Diploma
   - Bachelor's Degree
   # - Associate's Degree
-  - Master's Degree
+  # - Master's Degree
   # - Master of Business Administration
   # - Doctor of Philosophy
   # - Doctor of Medicine
@@ -103,7 +107,8 @@ salaryMinimum: 106000
 
 # ------------ Additional parameters: languages ---------------
 languages:
- english: Native or bilingual # None, Conversational, Professional, Native or bilingual
+ english: advance # None, Conversational, Professional, Native or bilingual
+ Portuguese: Native
 
 # ------------ Additional parameters: years of experience ---------------
 # How many years of work experience do you have ...? (whole numbers only)
@@ -149,20 +154,20 @@ experience:
 
 # ------------ Additional parameters: personal info ---------------
 personalInfo:
- First Name: FirstName
- Last Name: LastName
- Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
- Mobile Phone Number: 1234567890
- Street address: 123 Fake Street
- City: Red Deer, Alberta # Include the state/province as well!
- State: YourState
- Zip: YourZip/Postal
- Linkedin: https://www.linkedin.com/in/my-linkedin-profile
- Website: https://www.my-website.com # github/website is interchangeable here
+ First Name: Guilherme
+ Last Name: Assis
+ Phone Country Code: Brasil (+55) # See linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
+ Mobile Phone Number: 19983281068
+ Street address: José Ferreira Júnior
+ City: Paulínia # Include the state/province as well!
+ State: São Paulo
+ Zip: 13145-000
+ Linkedin: https://www.linkedin.com/in/guilherme-b-9665b9128/
+ Website: https://github.com/gbdeassis0407 # github/website is interchangeable here
 
 # ------------ Additional parameters: USA employment crap ---------------
 eeo:
- gender: None
+ gender: male
  race: None
  vetran: None
  disability: None
